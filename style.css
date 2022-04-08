@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.heroSection {
+  background-image: url("./Images/HeroImage.png");
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.realLink {
+  text-decoration: none;
+  color: #ffffff;
+}
+.mainButton {
+  background: #f0c02a;
+  border-radius: 10px;
+}
+hr {
+  border: solid;
+}
+.hText {
+  font-weight: bolder;
+  letter-spacing: 2px;
+  font-size: 6.5rem;
+}
+.oText {
+  font-size: 3rem;
+  font-weight: bold;
+}
