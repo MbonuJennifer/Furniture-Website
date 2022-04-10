@@ -40,3 +40,19 @@ hr {
   font-size: 3rem;
   font-weight: bold;
 }
+.headingText {
+  color: #050809;
+  margin-top: 85px;
+  padding: 5px;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.hRule {
+  height: 5px;
+  width: 175px;
+  color: #f0c02a;
+  background-color: black;
+  border-radius: 5px;
+  align-items: center;
+}
