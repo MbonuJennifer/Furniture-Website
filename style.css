@@ -15,7 +15,7 @@ body {
   background-image: url("./Images/HeroImage.png");
   background-position: center;
   background-size: cover;
-  object-fit: cover;
+  /* object-fit: cover; */
   width: 100vw;
   height: 100vh;
 }
@@ -56,15 +56,21 @@ hr {
   border-radius: 5px;
   align-items: center;
 }
-.serviesSection{
-  margin-top: 150px;
+.catSec1 {
+  height: 18rem;
 }
-.secPText{
+.guyBox {
+  margin-left: 150px;
+}
+.serviesSection {
+  margin-top: 100px;
+}
+.secPText {
   width: 25rem;
   /* font-size: 30px; */
-  color: #999A9B;
+  color: #999a9b;
 }
-.secHeadText{
+.secHeadText {
   color: #050809;
   font-size: 35px;
   font-weight: 700;
@@ -72,9 +78,12 @@ hr {
   width: 25rem;
   margin-bottom: 5px;
 }
-.anotherService{
-  margin-top: 150px;
+.anotherService {
+  margin-top: 100px;
 }
 .otherService{
-  
+  margin-left: 0;
 }
+
+/* .smallSlideshow {
+} */
