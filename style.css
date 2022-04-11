@@ -63,31 +63,29 @@ hr {
   margin-left: 150px;
 }
 .serviesSection {
-  margin-top: 100px;
+  margin-top: 70px;
 }
 .secPText {
-  width: 25rem;
   /* font-size: 30px; */
   color: #999a9b;
+  width: 35rem;
+  text-align: justify;
 }
 .secHeadText {
   color: #050809;
   font-size: 35px;
   font-weight: 700;
   line-height: 3.5rem;
-  width: 25rem;
+  /* width: 25rem; */
   margin-bottom: 5px;
 }
 .anotherService {
-  margin-top: 100px;
+  margin-top: 30px;
 }
 .otherService {
-  margin-left: 0;
+   padding: 25px;
+  /* width: 30rem; */
 }
-
-/* .smallSlideshow {
-} */
-
 .greatRow {
   background-color: #f0c02a;
   margin-top: 100px;
@@ -114,6 +112,7 @@ hr {
 .middleP,
 .lastP {
   color: #000000;
+  font-size: 20px;
 }
 .input1 {
   width: 45%;
@@ -134,5 +133,5 @@ hr {
   font-weight: 500;
 }
 .lastP {
-  margin-bottom: 150px;
+  margin-bottom: 90px;
 }
