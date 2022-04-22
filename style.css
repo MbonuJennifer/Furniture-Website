@@ -28,6 +28,11 @@ body {
   background: #f0c02a;
   border-radius: 10px;
 }
+.sendButton {
+  background: black;
+  color: #ffffff;
+  padding: 0px 40px;
+}
 hr {
   border: solid;
 }
@@ -134,4 +139,72 @@ hr {
 }
 .lastP {
   margin-bottom: 90px;
+}
+.offerP {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom: 70px;
+}
+.myFooter {
+  background-color: #f0c02a;
+}
+.signText {
+  color: #000000;
+  margin-top: 45px;
+  padding: 5px;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+.iArea {
+  width: 20rem;
+}
+li {
+  list-style-type: none;
+}
+.headList {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: start;
+  margin-top: 35px;
+  color: #000000;
+}
+.otherList {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 24px;
+  text-align: start;
+  margin-top: 15px;
+  color: #000000;
+}
+.iconic {
+  color: #000000;
+  font-size: 2rem;
+
+  margin-right: 20px;
+}
+.socalIcons {
+  display: flex;
+  margin-top: 60px;
+
+  justify-content: end;
+}
+.footerP {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  color: #000000;
+}
+.realFooterP{
+  margin-top: 80px;
+}
+.copySymbol{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.imageBlack{
+  margin-top: 20px;
 }
