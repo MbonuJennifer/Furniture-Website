@@ -52,7 +52,7 @@ hr {
   height: 5px;
   width: 175px;
   color: #f0c02a;
-  background-color: black;
+  /* background-color: black; */
   border-radius: 5px;
   align-items: center;
 }
@@ -83,7 +83,7 @@ hr {
   margin-top: 30px;
 }
 .otherService {
-   padding: 25px;
+  padding: 25px;
   /* width: 30rem; */
 }
 .greatRow {
