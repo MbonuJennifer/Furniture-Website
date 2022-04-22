@@ -198,13 +198,48 @@ li {
   text-align: center;
   color: #000000;
 }
-.realFooterP{
+.realFooterP {
   margin-top: 80px;
 }
-.copySymbol{
+.copySymbol {
   font-weight: bold;
   font-size: 1.2rem;
 }
-.imageBlack{
+.imageBlack {
   margin-top: 20px;
+}
+.hearButton {
+  /* text-align: end; */
+  width: 10rem;
+
+}
+.guyMove{
+  display: flex;
+  justify-content: end;
+}
+.hearP {
+  text-align: center;
+  width: 45rem;
+  color: #444646;
+;
+}
+.imageDiv{
+  display: flex;
+
+}
+.Image1{
+  position: absolute;
+  left: 10%;
+}
+.Image2{
+  position: absolute;
+  left: 14%;
+}
+.Image3{
+  position: absolute;
+  left: 18%;
+}
+.Image4{
+  position: absolute;
+  left: 22%;
 }
